@@ -1,6 +1,6 @@
 # Data: competitive runners injury dataset
 
-**Source:** TODO: Kaggle URL and the paper citation
+**Source:** https://www.kaggle.com/datasets/shashwatwork/injury-prediction-for-competitive-runners
 **File:** `data/raw/day_approach_maskedID_timeseries.csv`
 
 ## Summary
@@ -18,7 +18,13 @@
 
 ## Injury definition
 
-TODO: copy the definition from the paper's methods section
+"...injuries are re ected by all records agged
+with injury from the training log, whereby it was required that
+the athletes were training injury free 3 weeks prior to the session
+agged with injury. For the healthy events, we demanded that
+the athlete is fully t 3 weeks before and 3 weeks after the event
+day. Moreover, events that contained missing or anomalous data
+were removed from our data set."
 
 ## Key columns
 
