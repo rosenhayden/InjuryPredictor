@@ -1,2 +1,5 @@
 # Predicting Running Related Injury with Training Data
-Done without coding agents.
+Can recent training data predict whether a runner is about to get injured?
+
+[Read about it](https://haydenrosen.dev/posts/running-injury-prediction/main/) on my portfolio.
+
